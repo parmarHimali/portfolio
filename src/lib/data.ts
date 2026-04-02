@@ -98,10 +98,9 @@ export const portfolioData = {
       description:
         "Gained hands-on experience in building responsive web components and assisting in Next.js migrations.",
       achievements: [
-        "Built responsive and user-friendly UI components using React.js",
-        "Integrated APIs to fetch and display dynamic data",
-        "Developed reusable components for better scalability",
-        "Awarded “Rising Star” for completing the internship ahead of schedule",
+        "Received “Rising Star Award” during internship for outstanding performance, quick learning",
+        "Built strong foundation by learning core web development concepts from scratch",
+        "Improved problem-solving skills through practical implementation",
       ],
     },
   ],

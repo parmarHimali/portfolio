@@ -64,7 +64,6 @@ const Navbar = () => {
         <button className="close-menu" onClick={() => setIsOpen(false)}>
           <X size={32} />
         </button>
-
         {navLinks.map((link) => (
           <a
             key={link.name}
